@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Quiet, a full-time full-stack freelance developer. I'm Active Since 2022</div>  
   
 
@@ -75,13 +70,10 @@
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/quietartx" target="_blank" style="display: inline-block;">
+            <a href="https://www.saweria.co/quietartx" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
